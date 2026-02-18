@@ -1,0 +1,5 @@
+{
+  "name": "Shopify Theme Detector",
+  "description": "A modern SaaS landing page for a Chrome Extension that detects Shopify themes.",
+  "requestFramePermissions": []
+}
