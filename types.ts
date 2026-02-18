@@ -21,3 +21,13 @@ export interface ComparisonRow {
   tool: boolean | string;
   manual: boolean | string;
 }
+
+export interface PricingPlan {
+  name: string;
+  priceMonthly: number;
+  priceYearly: number;
+  description: string;
+  features: string[];
+  isPopular?: boolean;
+  buttonText: string;
+}

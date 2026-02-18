@@ -5,6 +5,7 @@ import ProblemSolution from './components/ProblemSolution';
 import Features from './components/Features';
 import HowItWorks from './components/HowItWorks';
 import Comparison from './components/Comparison';
+import Pricing from './components/Pricing';
 import FAQ from './components/FAQ';
 import CallToAction from './components/CallToAction';
 import Footer from './components/Footer';
@@ -19,6 +20,7 @@ const App: React.FC = () => {
         <Features />
         <HowItWorks />
         <Comparison />
+        <Pricing />
         <FAQ />
         <CallToAction />
       </main>
